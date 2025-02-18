@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avani Agarwal</h1>
-<h3 align="center">A passionate Frontend Developer !!<br></h3>
+<h3 align="center">A passionate Full-Stack Developer !!<br></h3>
 
 <img align="right" alt="coding" width="380" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/avaniagarwal110" target="blank"><img src="https://img.shields.io/twitter/follow/avaniagarwal110?logo=twitter&style=for-the-badge" alt="avaniagarwal110" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Building**
+- 🔭 I’m currently working on **Dapp Building**
 
-- 🌱 I’m currently learning **Java, React**
-
-- 🤝 I’m looking for help with **Frontend Projects using React**
+- 🌱 I’m currently learning **MongoDB, Next.js**
 
 - 👨‍💻 All of my projects are available at ([portfolio_avani](https://portfolio-avani.vercel.app/))
 
