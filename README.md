@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **Frontend Projects using React**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/portfolio_avani](https://bit.ly/portfolio_avani)
+- 👨‍💻 All of my projects are available at ([portfolio_avani](https://portfolio-avani.vercel.app/))
 
 - 📫 How to reach me **avaniagarwal110@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Avani_Resume)
+- 📄 Know about my experiences [[Avani_Resume)](https://drive.google.com/file/d/1D82Ig3_xY7z0bzL3qZrvjPr2YhdJ1Z5b/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Hungry**
 
