@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **avaniagarwal110@gmail.com**
 
-- 📄 Know about my experiences [[Avani_Resume)](https://drive.google.com/file/d/1D82Ig3_xY7z0bzL3qZrvjPr2YhdJ1Z5b/view?usp=sharing)
+- 📄 Know about my experiences [[Avani_Resume)](https://drive.google.com/file/d/1UWIb44R-4VFlZ4nrvGGZCZyECW0URf-1/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Hungry**
 
